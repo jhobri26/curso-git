@@ -50,3 +50,5 @@ git branch --no merge
 #ver historia
 git log --oneline
 git log --graph
+
+#fech sincorinizar

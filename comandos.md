@@ -32,8 +32,8 @@ git push
 #diferenciador de cambios
 test git diff
 
-#ver ramas local | remoto
-gti branch 
+----uyno
+
 git branch -r
  git branch feature1 |"crear rama"
 

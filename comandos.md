@@ -42,3 +42,11 @@ git branch -r
 
 #sincronizar
 git fetch
+
+#saber que ramas fueron fusionadas | no fusionadas
+git branch --merge
+git branch --no merge
+
+#ver historia
+git log --oneline
+git log --graph

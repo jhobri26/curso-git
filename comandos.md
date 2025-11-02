@@ -28,3 +28,6 @@ git commit comandos.readme -m "primer commit"
 
 #envia al repositorio
 git push
+
+#diferenciador de cambios
+test git diff

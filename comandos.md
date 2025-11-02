@@ -31,3 +31,14 @@ git push
 
 #diferenciador de cambios
 test git diff
+
+#ver ramas local | remoto
+gti branch 
+git branch -r
+ git branch feature1 |"crear rama"
+
+ #cambiar de rama
+ git switch
+
+#sincronizar
+git fetch
